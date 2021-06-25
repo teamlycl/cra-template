@@ -38,6 +38,7 @@ jobs:
         with:
           git_email: 'dev@lycl.co.kr'
           auto_fix: true
+          commit_message: 'style: fix code style issues with ${linter}'
           eslint: true
           eslint_extensions: 'js,jsx,ts,tsx'
           prettier: true
