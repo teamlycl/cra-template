@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "npm": {
+    "fileMatch": [
+      "(^|/)template.json$"
+    ]
+  }
+}
