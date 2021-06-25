@@ -75,7 +75,7 @@ jobs:
           cp -a ./src/. template/src
           cp -a ./public/. template/public
           cp .gitignore template/gitignore
-          cp .eslintrc .eslintignore .prettierrc tsconfig.json tsconfig.eslint.json README.md template/
+          cp .eslintrc .eslintignore .prettierrc tsconfig.json README.md template/
 #      - name: Release
 #        uses: cycjimmy/semantic-release-action@v2
 #        id: semantic
