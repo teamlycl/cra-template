@@ -41,7 +41,7 @@ jobs:
           eslint: true
           eslint_extensions: 'js,jsx,ts,tsx'
           prettier: true
-          prettier_extensions: 'js,jsx,ts,tsx,css,html,scss,yaml,yml'
+          prettier_extensions: 'js,jsx,ts,tsx,css,html,scss'
 
   test:
     runs-on: ubuntu-latest
