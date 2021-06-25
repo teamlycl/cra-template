@@ -37,6 +37,8 @@ jobs:
         uses: wearerequired/lint-action@v1
         with:
           github_token: ${{ secrets.GH_TOKEN }}
+          git_name: 'lycl-dev'
+          git_email: 'dev@lycl.co.kr'
           auto_fix: true
           eslint: true
           eslint_extensions: 'js,jsx,ts,tsx'
