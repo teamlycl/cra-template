@@ -52,11 +52,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "postinstall": "husky install && husky add .husky/prepare-commit-msg 'exec < /dev/tty && ./node_modules/.bin/cz --hook || true'",
-    "prepublishOnly": "pinst --disable",
-    "postpublish": "pinst --enable",
-    "semantic-release": "semantic-release"
+    "eject": "react-scripts eject"
   },
   "browserslist": {
     "production": [
