@@ -1,3 +1,15 @@
+# 1.0.0 (2021-06-29)
+
+
+### Bug Fixes
+
+* add husky hooks ([05a2860](https://github.com/teamlycl/cra-template/commit/05a2860cb219a6aed95e71c9439b4e1b957610e8))
+
+
+### Features
+
+* add semantic release ([25c68dc](https://github.com/teamlycl/cra-template/commit/25c68dcaec1622f7c2fb3719b0e046f2f7b3c2a8))
+
 # [1.1.0](https://github.com/teamlycl/react-template/compare/v1.0.5...v1.1.0) (2021-06-23)
 
 

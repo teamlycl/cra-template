@@ -1,6 +1,6 @@
 {
   "name": "@teamlycl/cra-template",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "author": "leesuhyung <realnavystyle@gmail.com>",
   "engines": {
     "node": ">=16"
