@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/teamlycl/cra-template/compare/v1.0.0...v1.0.1) (2021-07-01)
+
+
+### Bug Fixes
+
+* add .husky in gitignore ([c82c01d](https://github.com/teamlycl/cra-template/commit/c82c01dabbe8edb7fe92889b5ef86afd21683799))
+
 # 1.0.0 (2021-06-29)
 
 
