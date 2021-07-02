@@ -78,13 +78,7 @@ jobs:
           cp .gitignore template/gitignore
           cp .eslintrc .eslintignore .prettierrc tsconfig.json README.md template/
       - name: Release
-        uses: cycjimmy/semantic-release-action@v2
-        id: semantic
-        with:
-          branch: master
-          extra_plugins: |
-            @semantic-release/git
-            @semantic-release/changelog
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          run: npx semantic-release
