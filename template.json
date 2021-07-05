@@ -27,7 +27,9 @@
       "build": "react-scripts build",
       "test": "react-scripts test",
       "eject": "react-scripts eject",
-      "postinstall": "husky install && husky set .husky/prepare-commit-msg 'exec < /dev/tty && ./node_modules/.bin/cz --hook || true'"
+      "husky:install": "husky install",
+      "husky:init": "husky set .husky/prepare-commit-msg 'exec < /dev/tty && ./node_modules/.bin/cz --hook || true'",
+      "postinstall": "npm run husky:install && npm run husky:init"
     },
     "config": {
       "commitizen": {

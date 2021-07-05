@@ -54,6 +54,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "postinstall": "husky install && husky set .husky/prepare-commit-msg 'exec < /dev/tty && ./node_modules/.bin/cz --hook || true'",
+    "prepublishOnly": "pinst --disable",
+    "postpublish": "pinst --enable",
     "semantic-release": "semantic-release"
   },
   "browserslist": {
