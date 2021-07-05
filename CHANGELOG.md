@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/teamlycl/cra-template/compare/v1.0.12...v1.0.13) (2021-07-05)
+
+
+### Bug Fixes
+
+* [@types](https://github.com/types) dependencies to devDependencies ([2e33a77](https://github.com/teamlycl/cra-template/commit/2e33a77bc68f64ecf8b5b3ff7efa4786e4532412))
+
 ## [1.0.12](https://github.com/teamlycl/cra-template/compare/v1.0.11...v1.0.12) (2021-07-05)
 
 
