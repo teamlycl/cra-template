@@ -75,6 +75,7 @@ jobs:
           mkdir template
           cp -a ./src/. template/src
           cp -a ./public/. template/public
+          cp -a ./.husky/. template/.husky
           cp .gitignore template/gitignore
           cp .eslintrc .eslintignore .prettierrc tsconfig.json README.md template/
       - name: Release
