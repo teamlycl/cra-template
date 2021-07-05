@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/teamlycl/cra-template/compare/v1.0.8...v1.0.9) (2021-07-05)
+
+
+### Bug Fixes
+
+* remove husky ignore ([42fcdce](https://github.com/teamlycl/cra-template/commit/42fcdceb1a6c9ae57027997eaa83aca4bcfc90b6))
+
 ## [1.0.8](https://github.com/teamlycl/cra-template/compare/v1.0.7...v1.0.8) (2021-07-05)
 
 
