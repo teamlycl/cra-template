@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/teamlycl/cra-template/compare/v1.0.9...v1.0.10) (2021-07-05)
+
+
+### Bug Fixes
+
+* rollback copy husky ([13b393f](https://github.com/teamlycl/cra-template/commit/13b393f27fdfbbf1c71c0aaccb5d2953824dcd4c))
+
 ## [1.0.9](https://github.com/teamlycl/cra-template/compare/v1.0.8...v1.0.9) (2021-07-05)
 
 
