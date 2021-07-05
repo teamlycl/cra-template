@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/teamlycl/cra-template/compare/v1.0.2...v1.0.3) (2021-07-02)
+
+
+### Bug Fixes
+
+* fix syntax error ([459f21e](https://github.com/teamlycl/cra-template/commit/459f21e31afa8b2e86a992dffdc21569d9df28cc))
+* remove test actions ([746c6d6](https://github.com/teamlycl/cra-template/commit/746c6d6d6bee06d9068462ae496a172efeccecd0))
+
 ## [1.0.2](https://github.com/teamlycl/cra-template/compare/v1.0.1...v1.0.2) (2021-07-01)
 
 
