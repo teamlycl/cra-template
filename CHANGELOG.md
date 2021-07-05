@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/teamlycl/cra-template/compare/v1.0.5...v1.0.6) (2021-07-05)
+
+
+### Bug Fixes
+
+* fix template.json ([991fa7c](https://github.com/teamlycl/cra-template/commit/991fa7c8c3a3ea9da831b88b275b8bee8a25d393))
+
 ## [1.0.5](https://github.com/teamlycl/cra-template/compare/v1.0.4...v1.0.5) (2021-07-05)
 
 
