@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/teamlycl/cra-template/compare/v1.0.7...v1.0.8) (2021-07-05)
+
+
+### Bug Fixes
+
+* fix husky initialize ([f5fbe89](https://github.com/teamlycl/cra-template/commit/f5fbe898809273ed06d117ebb5423bc2c2274ac0))
+
 ## [1.0.7](https://github.com/teamlycl/cra-template/compare/v1.0.6...v1.0.7) (2021-07-05)
 
 
