@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/teamlycl/cra-template/compare/v1.0.3...v1.0.4) (2021-07-05)
+
+
+### Bug Fixes
+
+* remove devDependencies from template.json ([acd87e5](https://github.com/teamlycl/cra-template/commit/acd87e5ad50bcaa40766a8e8c8c6075e30c75d64))
+
 ## [1.0.3](https://github.com/teamlycl/cra-template/compare/v1.0.2...v1.0.3) (2021-07-02)
 
 
